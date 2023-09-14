@@ -32,5 +32,5 @@ spec:
       port: 80
       targetPort: 5000
       nodePort: 30050
-  type: NodePort  # Change to NodePort or LoadBalancer if needed
+  type: NodePort  
 
